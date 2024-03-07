@@ -15,10 +15,10 @@ Installation
 
 Clone the repository:
 bash 
-git clone https://github.com/rimag2023/finance-calculation_new.git
+git clone https://github.com/rimag2023/Investment-calculations.git
 
 Navigate to the project directory:
-bash cd finance_calculation_new
+bash cd Investment-calculations
 
 
 Usage
@@ -51,3 +51,4 @@ Formulas for expressing financial concepts using mathematical symbols are based 
 
 They typically contain two or more variables and an equal sign. The formula often illustrates how various quantities relate to one another, helping to understand some financial concepts.
 
+[https://github.com/rimag2023/Investment-calculations/edit/main/README.md](https://www.dreamstime.com/finance-accounting-concept-business-woman-working-desk-using-calculator-to-calculate-office-finance-accounting-image141544975)
