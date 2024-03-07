@@ -52,4 +52,4 @@ Formulas for expressing financial concepts using mathematical symbols are based 
 They typically contain two or more variables and an equal sign. The formula often illustrates how various quantities relate to one another, helping to understand some financial concepts.
 
 [https://github.com/rimag2023/Investment-calculations/edit/main/README.md](https://www.istockphoto.com/photo/money-saving-for-future-plan-retirement-fund-pension-investment-wealth-business-and-gm1849022134-551809497)
-# (https://www.dreamstime.com/finance-accounting-concept-business-woman-working-desk-using-calculator-to-calculate-office-finance-accounting-image141544975)
+
