@@ -24,7 +24,7 @@ bash cd Investment-calculations
 
 Usage
 bash 
-To use the finance calculators, run the 'finance-calculation_new.py' Follow the onscreen instructions to choose the calculator you wants to use and input the required parameters.
+To use the finance calculators, run the 'finance-calculation_new.py' Follow the onscreen instructions to choose the calculator you want to use and input the required parameters.
 
 Example:
 
